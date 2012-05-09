@@ -1,0 +1,3 @@
+[submodule "Vendors/iPhoneContacts"]
+	path = Vendors/iPhoneContacts
+	url = git@github.com:ngs/iPhoneContacts.git

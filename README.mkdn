@@ -1,0 +1,6 @@
+# addressbook-plist-writer
+
+A sample code for writing binary plist file from AddresBook contacts.
+
+
+
