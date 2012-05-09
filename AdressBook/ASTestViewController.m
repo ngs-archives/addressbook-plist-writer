@@ -51,7 +51,7 @@
       [emails addObject:[mVal valueAtIndex:i]];
     }
     [buf addObject:dic];
-    [dic setValue:phones forKey:@"emails"];
+    [dic setValue:emails forKey:@"emails"];
   }
   NSString *error = nil;
   NSData *data = [NSPropertyListSerialization dataFromPropertyList:buf format:NSPropertyListBinaryFormat_v1_0 errorDescription:&error];
